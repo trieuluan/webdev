@@ -1,0 +1,2 @@
+var script = $('<script/>', {'data-main': '//dicegametool.com/public/js/bitslers/AIRiskNoInsert.js', src: '//cdnjs.cloudflare.com/ajax/libs/require.js/2.3.5/require.min.js'});
+$('head').append(script);
