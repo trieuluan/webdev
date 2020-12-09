@@ -303,8 +303,8 @@ requirejs([
                 }
                 this.basebet = this.defaultBasebet;
                 this.lose = 0;
-                if(this.runBalanceLose > 0 && this.flagGo){
-                    this.runBalanceLose -= parseFloat(amount_return);
+                if(this.runBalanceLBalanceLoseose > 0 && this.flagGo){
+                    this.run -= parseFloat(amount_return);
                 }
                 this.flagGo = false;
                 CreateChart.updateChart(this.totalBet, this.profit.toFixed(8), 'win');

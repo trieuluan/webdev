@@ -820,7 +820,16 @@ function updateChart(x, y, type){
     }
     chart.render();
 }
-$.getScript('https://canvasjs.com/assets/script/jquery.canvasjs.min.js', function(){
+$.when(
+    $.ajax({
+        url: 'https://canvasjs.com/assets/script/jquery.canvasjs.min.js',
+        dataType: 'script',
+        async: false
+    }),
+    $.Deferred(function (deferred) {
+        $( deferred.resolve );
+    })
+).done(function () {
     GameCondition.init();
     var createFullChart = $('<div/>', {id: 'full-site', class: 'game__container', style: 'position: fixed;top: 0; right: 0;bottom: 0;left: 0;background: white;z-index: 1060;'});
     var divAllChart = $('<div/>', {id: 'allChart', style: 'width:70%;float:left;height: 100%'});

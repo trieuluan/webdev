@@ -51,6 +51,7 @@
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/clamp.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/clone.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/cloneDeep.js" />
+      <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/cloneWith.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/commit.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/compact.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/compose.js" />
@@ -67,6 +68,7 @@
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/date.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/debounce.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/deburr.js" />
+      <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/defaultTo.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/defaults.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/defer.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/delay.js" />
@@ -273,8 +275,6 @@
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/zipObj.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/zipWith.js" />
       <root url="file://$PROJECT_DIR$/dist/node_modules/ms/index.js" />
-      <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/cloneWith.js" />
-      <root url="file://$PROJECT_DIR$/dist/node_modules/lodash/fp/defaultTo.js" />
     </CLASSES>
     <SOURCES />
   </library>

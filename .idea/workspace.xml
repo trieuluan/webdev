@@ -1,202 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5208e852-75ef-45e1-9f58-3d4456d030a6" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="5208e852-75ef-45e1-9f58-3d4456d030a6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forfaucet.js" beforeDir="false" afterPath="$PROJECT_DIR$/forfaucet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newAI.js" beforeDir="false" afterPath="$PROJECT_DIR$/newAI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="codedice" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="80-90.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/80-90.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="213" column="70" lean-forward="true" selection-start-line="213" selection-start-column="70" selection-end-line="213" selection-end-column="70" />
-              <folding>
-                <marker date="1535337902800" expanded="true" signature="4923:4954" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="4978:4997" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5110:5141" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5166:5185" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5298:5329" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5354:5373" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5486:5517" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="5586:5644" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="17876:17915" ph="..." />
-                <marker date="1535337902800" expanded="true" signature="18176:18215" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5-95rd.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-95rd.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="324" column="54" lean-forward="false" selection-start-line="324" selection-start-column="54" selection-end-line="324" selection-end-column="54" />
-              <folding>
-                <marker date="1535342974604" expanded="true" signature="4710:4741" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="4765:4784" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="4897:4928" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="4953:4972" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="5085:5116" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="5141:5160" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="5273:5304" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="5373:5431" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="17580:17619" ph="..." />
-                <marker date="1535342974604" expanded="true" signature="17880:17919" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newAI.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newAI.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8487">
-              <caret line="369" column="13" lean-forward="false" selection-start-line="369" selection-start-column="13" selection-end-line="371" selection-end-column="13" />
-              <folding>
-                <marker date="1528190359842" expanded="true" signature="2694:2725" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="2749:2768" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="2881:2912" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="2937:2956" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="3069:3100" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="3125:3144" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="3257:3288" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="3357:3415" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="20241:20280" ph="..." />
-                <marker date="1528190359842" expanded="true" signature="20509:20548" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>stopBot</find>
-      <find>resetbot</find>
-      <find>resetBot</find>
-      <find>viewStatic</find>
-      <find>dobet</find>
-      <find>ne</find>
-      <find>totalb</find>
-      <find>addHtml</find>
-      <find>addChart</find>
-      <find>doscri</find>
-      <find>createFullChart</find>
-      <find>``</find>
-      <find>tilethang</find>
-      <find>listChanceRun</find>
-      <find>updateTiLeThang</find>
-      <find>foreach</find>
-      <find>doScript</find>
-      <find>resetTileThang</find>
-      <find>totalbet</find>
-      <find>totalBet</find>
-      <find>totalReset</find>
-      <find>startgame</find>
-      <find>flagGoRisk</find>
-      <find>flagGo</find>
-      <find>xrp</find>
-      <find>balanceLose</find>
-      <find>golandau</find>
-      <find>defaultGolandau</find>
-      <find>5 - 95</find>
-      <find>mygame</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>public</replace>
-    </replaceStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/testRisk.js" />
-        <option value="$PROJECT_DIR$/superfast-complite.js" />
-        <option value="$PROJECT_DIR$/forfaucet.js" />
-        <option value="$PROJECT_DIR$/90.js" />
-        <option value="$PROJECT_DIR$/newcode.js" />
-        <option value="$PROJECT_DIR$/smart90.js" />
-        <option value="$PROJECT_DIR$/98code.js" />
-        <option value="$PROJECT_DIR$/1-5safe.js" />
-        <option value="$PROJECT_DIR$/code rd - testing.lua" />
-        <option value="$PROJECT_DIR$/check.js" />
-        <option value="$PROJECT_DIR$/luckWarget.js" />
-        <option value="$PROJECT_DIR$/hightBl.js" />
-        <option value="$PROJECT_DIR$/Code 999 by Luân - bản chuẩn.lua" />
-        <option value="$PROJECT_DIR$/lowrisk.js" />
-        <option value="$PROJECT_DIR$/aiv1.ts" />
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/Untitled-1.js" />
-        <option value="$PROJECT_DIR$/devFile.js" />
-        <option value="$PROJECT_DIR$/devaiv1.js" />
-        <option value="$PROJECT_DIR$/../hh.txt" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/../Untitled-1.js" />
-        <option value="$PROJECT_DIR$/sitevn.js" />
-        <option value="$PROJECT_DIR$/1-5lowRisk.js" />
-        <option value="$PROJECT_DIR$/superfast.js" />
-        <option value="$PROJECT_DIR$/2mcode.js" />
-        <option value="$PROJECT_DIR$/aiv1.js" />
-        <option value="$PROJECT_DIR$/../test-bit.txt" />
-        <option value="$PROJECT_DIR$/appendCode.js" />
-        <option value="$PROJECT_DIR$/AIRiskNoInsert.js" />
-        <option value="$PROJECT_DIR$/40-49.js" />
-        <option value="$PROJECT_DIR$/newAI.js" />
-        <option value="$PROJECT_DIR$/newAInoInsert.js" />
-        <option value="$PROJECT_DIR$/aiSafe.js" />
-        <option value="$PROJECT_DIR$/luckyRisk.js" />
-        <option value="$PROJECT_DIR$/improvisation.js" />
-        <option value="$PROJECT_DIR$/private_luckygames.js" />
-        <option value="$PROJECT_DIR$/newstady.js" />
-        <option value="$PROJECT_DIR$/1-5risk.js" />
-        <option value="$PROJECT_DIR$/80-90.js" />
-        <option value="$PROJECT_DIR$/5-95rd.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
-  </component>
+  <component name="ProjectId" id="1PGYuE87e1FmHgTaKFjTrCpEi0O" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -226,59 +63,39 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codedice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codedice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.sylvanaar.idea.Lua.options.LuaOptionsPanel" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="typescript-compiler-editor-notification" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/codedice/demo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JavaScript Debug.demo.html" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -368,11 +185,83 @@
       <workItem from="1533730243065" duration="679000" />
       <workItem from="1535337698189" duration="357000" />
       <workItem from="1535342924982" duration="492000" />
+      <workItem from="1554487910791" duration="686000" />
+      <workItem from="1554489444037" duration="7864000" />
+      <workItem from="1555147152704" duration="1123000" />
+      <workItem from="1556032431547" duration="1427000" />
+      <workItem from="1565502126124" duration="15000" />
+      <workItem from="1588159332886" duration="204000" />
+      <workItem from="1588159733818" duration="7362000" />
+      <workItem from="1588167954111" duration="17432000" />
+      <workItem from="1588316251791" duration="31533000" />
+      <workItem from="1588682060866" duration="9000" />
+      <workItem from="1588682195408" duration="595000" />
+      <workItem from="1588683020308" duration="551000" />
+      <workItem from="1588684497709" duration="48000" />
+      <workItem from="1588684560646" duration="511000" />
+      <workItem from="1588757284799" duration="829000" />
+      <workItem from="1588773609689" duration="36000" />
+      <workItem from="1588774224757" duration="201000" />
+      <workItem from="1588840526857" duration="423000" />
+      <workItem from="1588847620535" duration="6000" />
+      <workItem from="1588852226960" duration="168000" />
+      <workItem from="1588940532753" duration="641000" />
+      <workItem from="1588949648243" duration="500000" />
+      <workItem from="1589008040434" duration="2510000" />
+      <workItem from="1589046521757" duration="3342000" />
+      <workItem from="1589308258364" duration="18877000" />
+      <workItem from="1589456126522" duration="2232000" />
+      <workItem from="1589463030129" duration="2076000" />
+      <workItem from="1589480952269" duration="6509000" />
+      <workItem from="1589541820827" duration="31446000" />
+      <workItem from="1589704860856" duration="16079000" />
+      <workItem from="1589804463197" duration="372000" />
+      <workItem from="1589807741105" duration="1606000" />
+      <workItem from="1589809783015" duration="1135000" />
+      <workItem from="1589811071437" duration="250000" />
+      <workItem from="1589811433989" duration="159000" />
+      <workItem from="1589817604076" duration="2511000" />
+      <workItem from="1589905324746" duration="16188000" />
+      <workItem from="1590049734537" duration="1432000" />
+      <workItem from="1590067411342" duration="7560000" />
+      <workItem from="1590176493220" duration="18206000" />
+      <workItem from="1590433105725" duration="4509000" />
+      <workItem from="1590545540628" duration="5205000" />
+      <workItem from="1590563737507" duration="36654000" />
+      <workItem from="1590675872902" duration="8459000" />
+      <workItem from="1590692092719" duration="37604000" />
+      <workItem from="1590980446306" duration="1193000" />
+      <workItem from="1590985608634" duration="484000" />
+      <workItem from="1590993219397" duration="57000" />
+      <workItem from="1590994308176" duration="13379000" />
+      <workItem from="1591030238815" duration="2079000" />
+      <workItem from="1591065662014" duration="839000" />
+      <workItem from="1591080035635" duration="61000" />
+      <workItem from="1591099705686" duration="9098000" />
+      <workItem from="1591276268551" duration="990000" />
+      <workItem from="1591429413432" duration="20409000" />
+      <workItem from="1591545013323" duration="30916000" />
+      <workItem from="1591807923002" duration="1121000" />
+      <workItem from="1591814177106" duration="3820000" />
+      <workItem from="1591967927549" duration="1829000" />
+      <workItem from="1592063115059" duration="1352000" />
+      <workItem from="1592066346736" duration="7748000" />
+      <workItem from="1592160152603" duration="509000" />
+      <workItem from="1592205659135" duration="147000" />
+      <workItem from="1592300407756" duration="242000" />
+      <workItem from="1592363681020" duration="48000" />
+      <workItem from="1592406074225" duration="6775000" />
+      <workItem from="1592461774384" duration="216000" />
+      <workItem from="1592485420176" duration="3992000" />
+      <workItem from="1592917794921" duration="3368000" />
+      <workItem from="1601579914447" duration="717000" />
+      <workItem from="1601668134246" duration="6000" />
+      <workItem from="1601672203536" duration="5000" />
+      <workItem from="1604975304429" duration="439000" />
+      <workItem from="1605808093589" duration="423000" />
+      <workItem from="1607494142572" duration="50000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440062000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,311 +272,13 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07774228" sideWeight="0.48851454" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5045208" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1928494" sideWeight="0.4954792" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14163615" sideWeight="0.51148546" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5045208" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2060606" sideWeight="0.4954792" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14407815" sideWeight="0.48851454" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14163615" sideWeight="0.51148546" order="2" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/40-49.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4324">
-          <caret line="188" column="146" lean-forward="false" selection-start-line="188" selection-start-column="146" selection-end-line="188" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forfaucet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3059">
-          <caret line="133" column="8" lean-forward="false" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/40-49.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="147" lean-forward="false" selection-start-line="25" selection-start-column="147" selection-end-line="25" selection-end-column="147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/superfast-complite.js" />
-    <entry file="file://$USER_HOME$/Sites/AI-project/resources/assets/js/script.js" />
-    <entry file="file://$PROJECT_DIR$/new98.js" />
-    <entry file="file://$PROJECT_DIR$/new90%.js" />
-    <entry file="file://$PROJECT_DIR$/lua80-90.lua" />
-    <entry file="file://$PROJECT_DIR$/1-5safe.js" />
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15070" column="17" lean-forward="false" selection-start-line="15070" selection-start-column="17" selection-end-line="15070" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forfaucet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10549">
-          <caret line="503" column="32" lean-forward="true" selection-start-line="503" selection-start-column="32" selection-end-line="503" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code-bitsler-random-33-50.txt" />
-    <entry file="file://$PROJECT_DIR$/newlua.lua" />
-    <entry file="file://$PROJECT_DIR$/code rd - testing.lua" />
-    <entry file="file://$PROJECT_DIR$/Code 999 by Luân - bản chuẩn.lua" />
-    <entry file="file://$PROJECT_DIR$/lowrisk.js" />
-    <entry file="file://$PROJECT_DIR$/aiv1.ts" />
-    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/de.js" />
-    <entry file="file://$PROJECT_DIR$/bitslerTest.js" />
-    <entry file="file://$PROJECT_DIR$/devFile.js" />
-    <entry file="file://$PROJECT_DIR$/bitslerEncode.js" />
-    <entry file="file://$PROJECT_DIR$/bitsler.js" />
-    <entry file="file://$PROJECT_DIR$/../hh.txt" />
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Untitled-1.js" />
-    <entry file="file://$PROJECT_DIR$/sitevn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4324">
-          <caret line="188" column="64" lean-forward="true" selection-start-line="188" selection-start-column="64" selection-end-line="188" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart90.js" />
-    <entry file="file://$PROJECT_DIR$/devaiv1.js" />
-    <entry file="file://$PROJECT_DIR$/2mcode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11625">
-          <caret line="172" column="29" lean-forward="false" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test-bit.txt" />
-    <entry file="file://$PROJECT_DIR$/1-5lowRisk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIRiskNoInsert.js" />
-    <entry file="file://$PROJECT_DIR$/appendCode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aiSafe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="322" column="55" lean-forward="false" selection-start-line="322" selection-start-column="55" selection-end-line="322" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/40-49.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aiv1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="61" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="567" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hightBl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7053">
-          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luckWarget.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4784">
-          <caret line="208" column="13" lean-forward="false" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luckyRisk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="256" column="31" lean-forward="false" selection-start-line="256" selection-start-column="31" selection-end-line="256" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private_luckygames.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="526" column="0" lean-forward="false" selection-start-line="526" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improvisation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="287" column="23" lean-forward="false" selection-start-line="287" selection-start-column="23" selection-end-line="287" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-5risk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-601">
-          <caret line="432" column="47" lean-forward="false" selection-start-line="432" selection-start-column="47" selection-end-line="432" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newstady.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="449" column="61" lean-forward="false" selection-start-line="449" selection-start-column="61" selection-end-line="449" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newAInoInsert.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="372" column="13" lean-forward="true" selection-start-line="372" selection-start-column="13" selection-end-line="372" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newAI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8487">
-          <caret line="369" column="13" lean-forward="false" selection-start-line="369" selection-start-column="13" selection-end-line="371" selection-end-column="13" />
-          <folding>
-            <marker date="1528190359842" expanded="true" signature="2694:2725" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="2749:2768" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="2881:2912" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="2937:2956" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="3069:3100" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="3125:3144" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="3257:3288" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="3357:3415" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="20241:20280" ph="..." />
-            <marker date="1528190359842" expanded="true" signature="20509:20548" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/80-90.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="213" column="70" lean-forward="true" selection-start-line="213" selection-start-column="70" selection-end-line="213" selection-end-column="70" />
-          <folding>
-            <marker date="1535337902800" expanded="true" signature="4923:4954" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="4978:4997" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5110:5141" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5166:5185" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5298:5329" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5354:5373" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5486:5517" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="5586:5644" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="17876:17915" ph="..." />
-            <marker date="1535337902800" expanded="true" signature="18176:18215" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5-95rd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="324" column="54" lean-forward="false" selection-start-line="324" selection-start-column="54" selection-end-line="324" selection-end-column="54" />
-          <folding>
-            <marker date="1535342974604" expanded="true" signature="4710:4741" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="4765:4784" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="4897:4928" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="4953:4972" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="5085:5116" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="5141:5160" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="5273:5304" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="5373:5431" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="17580:17619" ph="..." />
-            <marker date="1535342974604" expanded="true" signature="17880:17919" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="498" y="267" width="683" height="486" key="find.popup" timestamp="1601579933866">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="498" y="267" width="683" height="486" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1601579933866" />
   </component>
 </project>
